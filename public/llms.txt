@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+ABC News 88 delivers hyperlocal news broadcasting exclusively for Portsmouth, Virginia. Stay informed with live coverage, community stories, and breaking news that matters to you.
+
+### About
+https://example.com/about
+Discover how ABC News 88 became Portsmouth&#39;s dedicated news source. Our team of abc news broadcasters brings you authentic, hyperlocal stories that connect our community.
+
+### Programs
+https://example.com/programs
+Explore ABC News 88&#39;s lineup of live news broadcast programs tailored for Portsmouth residents. From morning updates to evening reports, we cover what matters most to your community.
+
+### Contact
+https://example.com/contact
+Connect with ABC News 88&#39;s news broadcasting team. Submit tips, share community events, or reach our abc news broadcasters directly. Your voice shapes Portsmouth&#39;s news coverage.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
